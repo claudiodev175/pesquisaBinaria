@@ -65,3 +65,6 @@ if encontrado != -1:
     print(f"Elemento encontrado no índice {encontrado}")
 else:
     print("Elemento não encontrado")
+
+🧪 Exemplo de Saída
+Elemento encontrado no índice 3
