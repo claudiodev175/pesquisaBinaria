@@ -1,4 +1,4 @@
-# 🔍 Busca Binária em Python (Sem Funções)
+# 🔍 Busca Binária em Python
 
 ## 📘 Disciplina
 
